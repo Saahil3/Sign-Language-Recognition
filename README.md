@@ -13,18 +13,18 @@
 <p>Random Forest, a prominent supervised learning algorithm, finds application in classifying hand gestures for alphabets. It is based on the concept of ensemble learning, which is a process of combining multiple classifiers to enhance the accuracy of classifying hand gestures for alphabets.</p>
 
 <h2>How to implement it:</h2>
-1. Around 300 Images of each alphabet are available in the data Folder.
+<l>1. Around 300 Images of each alphabet are available in the data Folder.
 2. Dataset is generated in data.pickle file.
 3. Model is genrated in model.p file.
 4. Install the required libraries from requirements.txt.
-5. Run the inference_classifier.py file.
+5. Run the inference_classifier.py file.</l>
 
 <h2>If you want generate your own model woth your data images:</h2>
-1. Install the required libraries from requirements.txt.
+<l>1. Install the required libraries from requirements.txt.
 2. Run the collect_imgs.py -> Images will be generated in the data folder.
 3. Run the create_datset.py -> data.pickle gets created.
 4. Run the train_classifier.py -> model.p is generated
-5. Run the inference_classifier.py file.
+5. Run the inference_classifier.py file.</l>
 
 Output:
 
